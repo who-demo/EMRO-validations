@@ -14,7 +14,7 @@
     "amount": {
       "type": "integer",
       "minimum": 0,
-      "maximum": 2000
+      "maximum": 5000
     },
     "date": {
       "type": "string"
